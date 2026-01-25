@@ -1,16 +1,11 @@
 # clicker_app
+Clicker with random sounds.
+Programming language: Dart
 
-A new Flutter project.
+📺 Watch Video:
+[https://youtu.be/kAAAGlONyoQ?si=zfO5oyy_T9sAbFDD](https://youtube.com/shorts/APRtWXmaFGQ?si=9NMQz7X1HqqEPtsA)
 
-## Getting Started
+<img width="396" height="898" alt="image" src="https://github.com/user-attachments/assets/6cc858bb-39d5-49da-b338-4ffc05925342" />
+<img width="391" height="893" alt="image" src="https://github.com/user-attachments/assets/a745e2bd-a453-4075-a523-27b8eabb6691" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
