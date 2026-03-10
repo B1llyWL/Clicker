@@ -25,7 +25,7 @@
 
 <h2>📸 Screenshots</h2>
 
-<div>
+<div align="center">
   <img src="https://github.com/user-attachments/assets/8bbe60ea-bc94-427c-8145-47ca9fc5497e" 
        alt="Screenshot 1" 
        width="300" 
