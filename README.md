@@ -63,3 +63,10 @@ cd clicker_app
 flutter pub get
 flutter run --release</code></pre>
 
+<hr>
+<p align="center">
+  A fan project created for Bendy enthusiasts. <br>
+  All characters belong to the BENDY.
+</p>
+
+
