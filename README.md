@@ -23,9 +23,9 @@
 
 ---
 
-<h2 align="center">📸 Screenshots</h2>
+<h2>📸 Screenshots</h2>
 
-<div align="center">
+<div>
   <img src="https://github.com/user-attachments/assets/8bbe60ea-bc94-427c-8145-47ca9fc5497e" 
        alt="Screenshot 1" 
        width="300" 
@@ -36,14 +36,7 @@
        style="margin:10px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
-<h2 align="center">📖 About</h2>
-
-<p align="center">
-  A minimalist clicker game where each tap produces a random sound.<br>
-  Perfect for quick entertainment or stress relief. The app is written entirely in <b>Dart</b> (likely using Flutter) and is available for Android.
-</p>
-
-<h2 align="center">✨ Features</h2>
+<h2>✨ Features</h2>
 
 <ul style="display:inline-block; text-align:left;">
   <li>🔊 <b>Random sound effects</b> — a different sound for every click.</li>
@@ -52,15 +45,15 @@
   <li>📦 <b>Lightweight and offline</b> — works without internet.</li>
 </ul>
 
-<h2 align="center">⚙️ Installation & Download</h2>
+<h2>⚙️ Installation & Download</h2>
 
-<p align="center">
+<p>
   <b>Android:</b> Download the latest APK directly from 
   <a href="https://gamejolt.com/games/clickeraliceangel/1033617">GameJolt</a>.<br>
   <i>Install the APK on your device and start clicking!</i>
 </p>
 
-<p align="center">
+<p>
   <i>To build from source:</i>
 </p>
 
@@ -70,8 +63,3 @@ cd clicker_app
 flutter pub get
 flutter run --release</code></pre>
 
-<hr>
-<p align="center">
-  Made with ❤️ and Dart. <br>
-  Sounds and code are original.
-</p>
