@@ -67,7 +67,7 @@ flutter run --release</code></pre>
 <p align="center">
   A fan project created for Bendy enthusiasts. <br>
   All characters belong to the Joey Drew Studios Inc. <br>
-  The music does not belong to me. It was found on the Internet.
+  The sound tracks don't belong to me. They were found on the internet.
 </p>
 
 
